@@ -1,4 +1,4 @@
-# DevOpsDynamaite
+# DevOpsDynamite
 
 A simple Ruby project using Sinatra refining legacy code in Python3, creating a simple search engine.
 
